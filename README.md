@@ -1,1 +1,1 @@
-kuch nhi hai idhr, bhaag yaha se 
+# javascript-notes

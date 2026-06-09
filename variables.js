@@ -6,7 +6,7 @@
 // 2. variable name should not contain spaces
 // 3. variable name should not contain special characters except _ and $
 // 4. variable name should not be a reserved keyword like let, var, const,if,else and etc.
-//5. yeh case senstitive bhi hita hai
+//5. yeh case senstitive bhi hota hai
 let age = 18;
 age = 19;
 age=20;
@@ -18,7 +18,7 @@ console.log(age);
 const country = "india";
 console.log(country);
 // output will be india 
-//country = "usa";
+//country = "usa"; //on this this code line it will show an error
 // it will error as it is constant and cannot be changed
 
 var name = "aditya";
